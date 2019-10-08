@@ -3,5 +3,6 @@ $bgcolor:#c09;
 .box{
     background: $bgcolor;
     font-size: 30px;
-    display: flex
+    display: flex;
+    background: url('../assets/img/wb.png')
 }
